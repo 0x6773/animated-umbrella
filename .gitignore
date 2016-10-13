@@ -27,3 +27,6 @@
 *.exe
 *.out
 *.app
+
+# gdb history
+.gdb_history
