@@ -30,3 +30,5 @@
 
 # gdb history
 .gdb_history
+
+*.pyc
