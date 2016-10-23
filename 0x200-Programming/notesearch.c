@@ -6,7 +6,7 @@
 #include <sys/stat.h>
 #include "hacking.h"
 
-#define FILENAME "/var/notes"
+#define FILENAME "/tmp/notes"
 
 int print_notes(int, int, char *);
 int find_user_note(int, int);
